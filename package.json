@@ -1,0 +1,24 @@
+{
+  "name": "querystring-url",
+  "version": "0.1.0",
+  "description": "querystring with url search or string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxiangdaiyu/querystring-url.git"
+  },
+  "keywords": [
+    "querystring",
+    "url",
+    "search"
+  ],
+  "author": "qianjin.pan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoxiangdaiyu/querystring-url/issues"
+  },
+  "homepage": "https://github.com/xiaoxiangdaiyu/querystring-url#readme"
+}
