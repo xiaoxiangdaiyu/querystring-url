@@ -6,6 +6,9 @@
  * @default location.search
  * @return Object or Array
  * */
+/**
+ * 分支合并测试
+ * */
 function queryString(getObj,str){
     var string = (str!== undefined) ? str :  window.location.search;
     var result = string.match(new RegExp("[^\?\&]+=[^\?\&]+","g"));
